@@ -78,6 +78,12 @@ The analysis covers:
 The workbook also contains interactive slicers for categories, cities,
 customer types, months, payment modes, and stores.
 
+## Dashboard Preview
+
+![BrewBean Dashboard](Screenshot%202026-09-28%20145509.png)
+
+![BrewBean Business Insights](Screenshot%202026-09-28%20145537.png)
+
 ## Business Insights
 
 A separate **BUSINESS INSIGHTS** sheet is included to communicate deeper
@@ -129,10 +135,3 @@ sales data, evaluate product and store performance, understand customer
 and ordering patterns, measure profitability, and communicate business
 insights through an interactive dashboard.
 
-Employee-Attrition-Dashboard/
-│
-├── Employee_Atrition_Dashboard.xlsx
-├── README.md
-├── Screenshot 2026-09-28 141236.png
-├── Screenshot 2026-09-28 141351.png
-└── Screenshot 2026-09-28 141410.png
