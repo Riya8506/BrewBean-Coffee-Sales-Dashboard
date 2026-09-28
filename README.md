@@ -128,3 +128,11 @@ This project demonstrates how Excel can be used to analyze coffee-shop
 sales data, evaluate product and store performance, understand customer
 and ordering patterns, measure profitability, and communicate business
 insights through an interactive dashboard.
+
+Employee-Attrition-Dashboard/
+│
+├── Employee_Atrition_Dashboard.xlsx
+├── README.md
+├── Screenshot 2026-09-28 141236.png
+├── Screenshot 2026-09-28 141351.png
+└── Screenshot 2026-09-28 141410.png
